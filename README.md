@@ -8,7 +8,7 @@ Thanks to [Erik Montnemery](https://github.com/emontnemery) for creating the ini
 
 Note that a functioning MQTT Broker must be present on your network for this plugin to work.  It is possible to install [Mosquitto](https://mosquitto.org/) on the same device as Domoticz.  If you are using a [VirageHub](https://www.viragelabs.com/products/#hub), or a Raspberry Pi 4-based installation with minimum 32GB SSD, you can use the Virage Domoticz image which comes pre-configured with Mosquitto and Avahi to help Virage devices automatically find it.
 
-Copy the plugin.py file into the Domoticz plugins folder.  The location of this folder can vary depending on your method of installation and platform.  For Raspberry Pi OS, it defaults to /home/[username]/domoticz/plugins.
+Copy the plugin.py file into the Domoticz /plugins/virage_mqtt_discovery/ folder.  The location of this folder can vary depending on your method of installation and platform.  For Raspberry Pi OS, it defaults to /home/[username]/domoticz/plugins.
 
 Restart your Domoticz instance.
 
