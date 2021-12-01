@@ -1,7 +1,7 @@
 #           MQTT discovery plugin
 #
 """
-<plugin key="VirageMQTTDiscovery" name="Virage MQTT discovery" version="0.0.4">
+<plugin key="VirageMQTTDiscovery" name="Virage MQTT Discovery" version="1.0">
     <description>
       MQTT discovery, compatible with home-assistant.<br/><br/>
       Specify MQTT server and port.<br/>
