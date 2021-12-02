@@ -266,6 +266,7 @@ ABBREVIATIONS = {
     't': 'topic',
     'uniq_id': 'unique_id',
     'unit_of_meas': 'unit_of_measurement',
+    'val_tpl': 'value_template',
     'whit_val_cmd_t': 'white_value_command_topic',
     'whit_val_scl': 'white_value_scale',
     'whit_val_stat_t': 'white_value_state_topic',
